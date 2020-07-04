@@ -1,4 +1,5 @@
 #2020-07-04
+#Add Github
 
 from django.shortcuts import render, redirect
 from .models import Stock
